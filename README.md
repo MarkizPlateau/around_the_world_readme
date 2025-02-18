@@ -1,5 +1,9 @@
 # Around The World - Event Management System PWA
 
+## Live Demo  
+
+### 🔗 **[Check out the deployed version here](https://around-the-world-frontend.vercel.app)**
+
 ## About This Project  
 This project is a web application built with **Next.js**, utilizing **NextAuth** for authentication, **Apollo Client** to manage GraphQL queries and mutations, and **Strapi** as a headless CMS powered by **PostgreSQL**. The UI is designed with **Chakra UI**, ensuring a responsive and accessible user experience.  
 
@@ -19,8 +23,6 @@ Due to increased cloning activity, I have decided to secure this project by maki
 - [Nodemailer Configuration](#nodemailer-configuration)
 - [Account Management with Strapi](#account-management-with-strapi)
 
-## Live Demo
-🔗 [Check out the deployed version here](https://around-the-world-frontend.vercel.app)
 
 ## Screenshots & Code Samples
 Here you can find some screenshots from the project along with key code snippets that showcase its architecture.
