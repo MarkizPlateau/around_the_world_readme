@@ -1,5 +1,11 @@
 # Around The World - Event Management System PWA
 
+## About This Project  
+This project is a web application built with **Next.js**, utilizing **NextAuth** for authentication, **Apollo Client** to manage GraphQL queries and mutations, and **Strapi** as a headless CMS powered by **PostgreSQL**. The UI is designed with **Chakra UI**, ensuring a responsive and accessible user experience.  
+
+Some pages leverage **Server-Side Rendering (SSR)** for improved performance and SEO. The project follows the **MVVM architecture**, with **MobX** handling state management, ensuring a structured and efficient development workflow.
+
+
 ## Short Note
 Due to increased cloning activity, I have decided to secure this project by making the repository private. However, the project will be deployed soon, and you can still access its details here. Below is the original README.md from the previous repository.
 
@@ -14,7 +20,7 @@ Due to increased cloning activity, I have decided to secure this project by maki
 - [Account Management with Strapi](#account-management-with-strapi)
 
 ## Live Demo
-🔗 [Check out the deployed version here](#) *(link will be updated soon)*
+🔗 [Check out the deployed version here](https://around-the-world-frontend.vercel.app)
 
 ## Screenshots & Code Samples
 Here you can find some screenshots from the project along with key code snippets that showcase its architecture.
@@ -66,6 +72,14 @@ Here you can find some screenshots from the project along with key code snippets
 ![News page - mobile](assets/Around_the_world_21.png)
 #### Single news page
 ![Single news page](assets/Around_the_world_22.png)
+#### reCAPTCHA - mobile
+![Single news page](assets/Around_the_world_23.png)
+#### Server errors
+![Single news page](assets/Around_the_world_24.png)
+#### Server errors
+![Single news page](assets/Around_the_world_25.png)
+#### Server error page
+![Single news page](assets/Around_the_world_26.png)
 
 
 ### Code Samples
