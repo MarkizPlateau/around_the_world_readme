@@ -4,6 +4,8 @@
 
 ### 🔗 **[Check out the deployed version here](https://around-the-world-frontend.vercel.app)**
 
+"MVP" is finished, I will be adding more features on an ongoing basis, you can read more at [website - About Project](https://around-the-world-frontend.vercel.app/about-project)
+
 ## About This Project  
 This project is a web application built with **Next.js**, utilizing **NextAuth** for authentication, **Apollo Client** to manage GraphQL queries and mutations, and **Strapi** as a headless CMS powered by **PostgreSQL**. The UI is designed with **Chakra UI**, ensuring a responsive and accessible user experience.  
 
@@ -379,8 +381,4 @@ If you want to use gmail account for this purpose, create a google app password:
 - Changing login details to the admin panel in Strapi
 ```
 npm run strapi admin:reset-user-password --email="your_email" --password="your_password"
-```
-- Default is
-```
-"Admin@gmail.com" "tHt1passPH#" 
 ```
